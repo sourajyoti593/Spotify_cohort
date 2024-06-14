@@ -124,3 +124,22 @@ Conclusion
 
 By the end of this project, we aim to have a well-defined set of song cohorts, along with comprehensive insights into the factors that influence these groupings. This will aid Spotify in improving their recommendation system, ultimately enhancing user experience.
 
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/2390b48d-c90b-480f-a5eb-6b9b1e84bf83)
+
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/f95f8492-8e62-422d-896c-65b118a3b63d)
+
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/b33d4f8f-8ec2-44c0-948e-6e28c325ca78)
+
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/e5f84db7-b0fa-4e2b-91ac-fa555878af8a)
+
+
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/2fcbea57-024f-4f05-836b-b4de20016f0a)
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/7dde43ca-188e-4e2b-b61b-d872f76d407e)
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/f30b9188-bb59-4849-b799-de52b95e292a)
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/638cfe69-91b4-48e7-bb9d-b731ba2646e5)
+![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/51933bc5-c06f-4f35-ad66-88ed4c42ea70)
+
+
+
+
+

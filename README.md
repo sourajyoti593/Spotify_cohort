@@ -128,7 +128,11 @@ These visualizations will provide deeper insights into the dataset and help in i
 
 
 Conclusion
+
+
 By the end of this project, we aim to have a well-defined set of song cohorts, along with comprehensive insights into the factors that influence these groupings. This will aid Spotify in improving their recommendation system, ultimately enhancing user experience.
+
+
 ![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/d8c69758-de68-46c1-9a8b-7a2ec2b873c1)
 ![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/fa256ff4-c850-4905-b68b-d36df02aa3a4)
 ![download](https://github.com/sourajyoti593/Spotify_cohort/assets/126117819/486815d8-f6a2-4150-8d7c-7cd8c561decf)
